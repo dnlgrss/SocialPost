@@ -1,10 +1,10 @@
 <?php ini_set('display_errors', 1);
 
 // DB Params
-define('DB_HOST', 'localhost');
-define('DB_PSW', '123456');
-define('DB_NAME', 'sharepost');
-define('DB_USER', 'root');
+define('DB_HOST', '');
+define('DB_PSW', '');
+define('DB_NAME', '');
+define('DB_USER', '');
 
 // App Root
 define(
@@ -13,7 +13,7 @@ define(
 );
 // URL Root
 define(
-    'URLROOT', 'http://localhost:8888/sharepost'
+    'URLROOT', ''
 );
 // Site Name
 define(
